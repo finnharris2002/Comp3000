@@ -1,5 +1,5 @@
 # Comp3000
-Dissertation Repo
+
 Dissertation repository of Finn Harris Web Security Handbook: Best practices for Testing and Securing websites in Typical Companies. 
 
 Please note that my project was Research based meaning very little coding was performed.
